@@ -1,13 +1,12 @@
-package yt.amg.pa0vrg.security;
+package yt.amg.her_7pa0vrg.security;
 
 import com.google.common.collect.Sets;
-import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static yt.amg.pa0vrg.security.ApplicationUserPermission.*;
+import static yt.amg.her_7pa0vrg.security.ApplicationUserPermission.*;
 
 public enum ApplicationUserRole {
     STUDENT(Sets.newHashSet()),

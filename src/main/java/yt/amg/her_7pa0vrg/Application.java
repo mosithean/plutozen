@@ -1,4 +1,4 @@
-package yt.amg.pa0vrg;
+package yt.amg.her_7pa0vrg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

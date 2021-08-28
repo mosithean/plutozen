@@ -1,4 +1,4 @@
-package yt.amg.pa0vrg.security;
+package yt.amg.her_7pa0vrg.security;
 
 public enum ApplicationUserPermission {
     STUDENT_READ("student:read"),

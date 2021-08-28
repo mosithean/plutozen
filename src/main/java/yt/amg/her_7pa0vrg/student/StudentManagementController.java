@@ -1,4 +1,4 @@
-package yt.amg.pa0vrg.student;
+package yt.amg.her_7pa0vrg.student;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;

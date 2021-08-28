@@ -1,4 +1,4 @@
-package yt.amg.pa0vrg.security;
+package yt.amg.her_7pa0vrg.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
