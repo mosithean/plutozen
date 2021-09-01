@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg.student;
+package com.msthn.plutozen.student;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg.security;
+package com.msthn.plutozen.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

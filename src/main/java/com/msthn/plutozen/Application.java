@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg;
+package com.msthn.plutozen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

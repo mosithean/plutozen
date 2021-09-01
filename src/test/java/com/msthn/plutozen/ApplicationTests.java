@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg;
+package com.msthn.plutozen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

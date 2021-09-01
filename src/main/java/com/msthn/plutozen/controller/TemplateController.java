@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg.controller;
+package com.msthn.plutozen.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

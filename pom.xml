@@ -8,11 +8,11 @@
         <version>2.2.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>yt.amg</groupId>
-    <artifactId>her_7pa0vrg</artifactId>
+    <groupId>com.msthn</groupId>
+    <artifactId>plutozen</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>her_7pa0vrg</name>
-    <description>SpringSec</description>
+    <name>plutozen</name>
+    <description>SpringSec (her_7pa0vrg)</description>
     <properties>
         <java.version>11</java.version>
     </properties>

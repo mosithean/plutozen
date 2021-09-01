@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg.security;
+package com.msthn.plutozen.security;
 
 public enum ApplicationUserPermission {
     STUDENT_READ("student:read"),

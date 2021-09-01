@@ -1,4 +1,4 @@
-package yt.amg.her_7pa0vrg.security;
+package com.msthn.plutozen.security;
 
 import com.google.common.collect.Sets;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
@@ -6,7 +6,7 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static yt.amg.her_7pa0vrg.security.ApplicationUserPermission.*;
+import static com.msthn.plutozen.security.ApplicationUserPermission.*;
 
 public enum ApplicationUserRole {
     STUDENT(Sets.newHashSet()),
